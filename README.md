@@ -1,2 +1,2 @@
 # csvmerge
-merges csv files, uses only first files headers
+merges tab delimited csv files, uses only first files headers
